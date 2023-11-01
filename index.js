@@ -1,0 +1,1 @@
+const coolMentor = "Divya"
